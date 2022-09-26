@@ -20,8 +20,4 @@
     </PackageReference>
   </ItemGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\MergeIntervals\MergeIntervals.csproj" />
-  </ItemGroup>
-
 </Project>

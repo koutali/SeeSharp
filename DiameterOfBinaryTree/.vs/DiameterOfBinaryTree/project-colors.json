@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "626d85be-974c-4f81-92ef-06f113d0c566": {
+      "ProjectGuid": "626d85be-974c-4f81-92ef-06f113d0c566",
+      "DisplayName": "DiamterTests",
+      "ColorIndex": 0
+    },
+    "dc748b8b-18db-4150-ba23-f2ad5b663d45": {
+      "ProjectGuid": "dc748b8b-18db-4150-ba23-f2ad5b663d45",
+      "DisplayName": "DiameterOfBinaryTree",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

@@ -1,0 +1,19 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=00582728_002Db660_002D429f_002D943d_002D8ab682cd2085/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from Solution" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Not&gt;&#xD;
+    &lt;And&gt;&#xD;
+      &lt;TestAncestor&gt;&#xD;
+        &lt;TestId&gt;xUnit::C031F138-E0C2-494A-BD62-10FD2541B1E3::net6.0::AsteroidCollisionTests.AsteroidTests.Test1&lt;/TestId&gt;&#xD;
+      &lt;/TestAncestor&gt;&#xD;
+      &lt;Project Location="D:\Code\C#\Interviews.School\AsteroidSchool\AsteroidCollisionTests" Presentation="&amp;lt;AsteroidCollisionTests&amp;gt;" /&gt;&#xD;
+      &lt;Namespace&gt;AsteroidCollisionTests&lt;/Namespace&gt;&#xD;
+    &lt;/And&gt;&#xD;
+  &lt;/Not&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=2d5f0e24_002D3f1c_002D4b3d_002Daeae_002Dabf16a83c974/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Test1" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::C031F138-E0C2-494A-BD62-10FD2541B1E3::net6.0::AsteroidCollisionTests.AsteroidTests.Test1&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::C031F138-E0C2-494A-BD62-10FD2541B1E3::net6.0::AsteroidCollisionTests.AsteroidTests.Test2&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::C031F138-E0C2-494A-BD62-10FD2541B1E3::net6.0::AsteroidCollisionTests.AsteroidTests.Test3&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

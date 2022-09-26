@@ -2,3 +2,6 @@
 *.suo
 *.testlog
 *.manifest
+*.vsidx
+*.lock
+*.v1

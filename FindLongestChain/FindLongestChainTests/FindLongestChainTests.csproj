@@ -21,7 +21,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\MergeIntervals\MergeIntervals.csproj" />
+    <ProjectReference Include="..\FindLongestChain\FindLongestChain.csproj" />
   </ItemGroup>
 
 </Project>

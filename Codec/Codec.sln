@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31727.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codec", "Codec\Codec.csproj", "{1B9F0B7B-9222-440D-B7AD-088D848E069B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodecTests", "CodecTests\CodecTests.csproj", "{D1A9A2DB-5CBB-49D4-B2B4-BCA47A7D9419}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B9F0B7B-9222-440D-B7AD-088D848E069B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B9F0B7B-9222-440D-B7AD-088D848E069B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B9F0B7B-9222-440D-B7AD-088D848E069B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B9F0B7B-9222-440D-B7AD-088D848E069B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1A9A2DB-5CBB-49D4-B2B4-BCA47A7D9419}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1A9A2DB-5CBB-49D4-B2B4-BCA47A7D9419}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1A9A2DB-5CBB-49D4-B2B4-BCA47A7D9419}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1A9A2DB-5CBB-49D4-B2B4-BCA47A7D9419}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {23082F30-89BE-435B-80CA-FBC41142C6A6}
+	EndGlobalSection
+EndGlobal

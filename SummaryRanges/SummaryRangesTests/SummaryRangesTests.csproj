@@ -21,7 +21,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\MergeIntervals\MergeIntervals.csproj" />
+    <ProjectReference Include="..\SummaryRanges\SummaryRanges.csproj" />
   </ItemGroup>
 
 </Project>

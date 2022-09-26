@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindMedianUsingPriorityQueue", "FindMedianUsingPriorityQueue\FindMedianUsingPriorityQueue.csproj", "{EEABF742-2BCE-4CBB-9CFB-565EC8EC2FC8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindMedianTests", "FindMedianTests\FindMedianTests.csproj", "{FD4A52FC-3EB3-4121-80A5-A4F764933543}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEABF742-2BCE-4CBB-9CFB-565EC8EC2FC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEABF742-2BCE-4CBB-9CFB-565EC8EC2FC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEABF742-2BCE-4CBB-9CFB-565EC8EC2FC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEABF742-2BCE-4CBB-9CFB-565EC8EC2FC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD4A52FC-3EB3-4121-80A5-A4F764933543}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD4A52FC-3EB3-4121-80A5-A4F764933543}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD4A52FC-3EB3-4121-80A5-A4F764933543}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD4A52FC-3EB3-4121-80A5-A4F764933543}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EEC018D1-5992-41F7-94E3-2F942E8D1DA2}
+	EndGlobalSection
+EndGlobal

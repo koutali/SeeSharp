@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DiameterOfBinaryTree", "DiameterOfBinaryTree\DiameterOfBinaryTree.csproj", "{DC748B8B-18DB-4150-BA23-F2AD5B663D45}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiamterTests", "DiamterTests\DiamterTests.csproj", "{626D85BE-974C-4F81-92EF-06F113D0C566}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC748B8B-18DB-4150-BA23-F2AD5B663D45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC748B8B-18DB-4150-BA23-F2AD5B663D45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC748B8B-18DB-4150-BA23-F2AD5B663D45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC748B8B-18DB-4150-BA23-F2AD5B663D45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{626D85BE-974C-4F81-92EF-06F113D0C566}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{626D85BE-974C-4F81-92EF-06F113D0C566}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{626D85BE-974C-4F81-92EF-06F113D0C566}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{626D85BE-974C-4F81-92EF-06F113D0C566}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B23A095-6AE8-413E-805F-2DE5FF9791B3}
+	EndGlobalSection
+EndGlobal
