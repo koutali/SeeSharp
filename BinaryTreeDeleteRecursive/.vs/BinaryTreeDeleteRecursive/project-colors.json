@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1acfa227-cd80-490b-ab5c-178032138bd4": {
+      "ProjectGuid": "1acfa227-cd80-490b-ab5c-178032138bd4",
+      "DisplayName": "BinaryTreeDeleteRecursive",
+      "ColorIndex": 0
+    },
+    "e183e14b-0117-486b-8f63-464f6e932eec": {
+      "ProjectGuid": "e183e14b-0117-486b-8f63-464f6e932eec",
+      "DisplayName": "BinaryTreeRecursiveDeleteTest",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

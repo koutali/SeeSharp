@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuildBinaryExpressionTreeFromInfix", "BuildBinaryExpressionTreeFromInfix\BuildBinaryExpressionTreeFromInfix.csproj", "{7243F3D7-BD4B-4601-9803-62A9F77F2C86}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7243F3D7-BD4B-4601-9803-62A9F77F2C86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7243F3D7-BD4B-4601-9803-62A9F77F2C86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7243F3D7-BD4B-4601-9803-62A9F77F2C86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7243F3D7-BD4B-4601-9803-62A9F77F2C86}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {789F808C-B3BC-4D9A-A985-13CA0F093046}
+	EndGlobalSection
+EndGlobal

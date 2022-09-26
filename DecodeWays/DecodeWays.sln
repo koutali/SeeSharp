@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecodeWays", "DecodeWays\DecodeWays.csproj", "{03D10424-51AF-4828-8AA5-746E80C01A66}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecodeWaysTests", "DecodeWaysTests\DecodeWaysTests.csproj", "{27646DA9-D646-4C28-8BDA-A796BECE9831}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03D10424-51AF-4828-8AA5-746E80C01A66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03D10424-51AF-4828-8AA5-746E80C01A66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03D10424-51AF-4828-8AA5-746E80C01A66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03D10424-51AF-4828-8AA5-746E80C01A66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27646DA9-D646-4C28-8BDA-A796BECE9831}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27646DA9-D646-4C28-8BDA-A796BECE9831}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27646DA9-D646-4C28-8BDA-A796BECE9831}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27646DA9-D646-4C28-8BDA-A796BECE9831}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {94E6DD88-AEC8-42E9-B037-41660DE22AE8}
+	EndGlobalSection
+EndGlobal

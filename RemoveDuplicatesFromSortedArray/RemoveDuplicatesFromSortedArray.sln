@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveDuplicatesFromSortedArray", "RemoveDuplicatesFromSortedArray\RemoveDuplicatesFromSortedArray.csproj", "{D8B8978A-43FE-48AB-AA53-2FB771EF5B94}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveDuplicatesTests", "RemoveDuplicatesTests\RemoveDuplicatesTests.csproj", "{9BAF1E49-7634-4999-85B5-A66609EABEAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8B8978A-43FE-48AB-AA53-2FB771EF5B94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8B8978A-43FE-48AB-AA53-2FB771EF5B94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8B8978A-43FE-48AB-AA53-2FB771EF5B94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8B8978A-43FE-48AB-AA53-2FB771EF5B94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BAF1E49-7634-4999-85B5-A66609EABEAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BAF1E49-7634-4999-85B5-A66609EABEAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BAF1E49-7634-4999-85B5-A66609EABEAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BAF1E49-7634-4999-85B5-A66609EABEAC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {625769F0-197C-4030-96BE-CE8811212A24}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContainerWithMostWater", "ContainerWithMostWater\ContainerWithMostWater.csproj", "{32AC6C5A-9D5E-4C58-9981-0B606CC10D1F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContainerWithMostWaterTests", "ContainerWithMostWaterTests\ContainerWithMostWaterTests.csproj", "{E15F8587-AA6A-4B6B-AFDA-5B1F505EFA19}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32AC6C5A-9D5E-4C58-9981-0B606CC10D1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32AC6C5A-9D5E-4C58-9981-0B606CC10D1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32AC6C5A-9D5E-4C58-9981-0B606CC10D1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32AC6C5A-9D5E-4C58-9981-0B606CC10D1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E15F8587-AA6A-4B6B-AFDA-5B1F505EFA19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E15F8587-AA6A-4B6B-AFDA-5B1F505EFA19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E15F8587-AA6A-4B6B-AFDA-5B1F505EFA19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E15F8587-AA6A-4B6B-AFDA-5B1F505EFA19}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AACDBA75-9556-454E-8E68-AD27ABEE2A42}
+	EndGlobalSection
+EndGlobal

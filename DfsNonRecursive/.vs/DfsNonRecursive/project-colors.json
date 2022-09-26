@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "be167035-308b-496d-bc85-85545f0e444c": {
+      "ProjectGuid": "be167035-308b-496d-bc85-85545f0e444c",
+      "DisplayName": "DfsNonRecursive",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

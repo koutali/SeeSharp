@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "afc5c864-2f27-4e42-afb6-f4804e8e465e": {
+      "ProjectGuid": "afc5c864-2f27-4e42-afb6-f4804e8e465e",
+      "DisplayName": "CanVisitAllRooms",
+      "ColorIndex": 0
+    },
+    "1bda6111-6d84-409c-a892-d65adbe155e1": {
+      "ProjectGuid": "1bda6111-6d84-409c-a892-d65adbe155e1",
+      "DisplayName": "CanVisitAllRoomsTests",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

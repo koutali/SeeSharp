@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CanVisitAllRooms", "CanVisitAllRooms\CanVisitAllRooms.csproj", "{AFC5C864-2F27-4E42-AFB6-F4804E8E465E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CanVisitAllRoomsTests", "CanVisitAllRoomsTests\CanVisitAllRoomsTests.csproj", "{1BDA6111-6D84-409C-A892-D65ADBE155E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFC5C864-2F27-4E42-AFB6-F4804E8E465E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFC5C864-2F27-4E42-AFB6-F4804E8E465E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFC5C864-2F27-4E42-AFB6-F4804E8E465E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFC5C864-2F27-4E42-AFB6-F4804E8E465E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BDA6111-6D84-409C-A892-D65ADBE155E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BDA6111-6D84-409C-A892-D65ADBE155E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BDA6111-6D84-409C-A892-D65ADBE155E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BDA6111-6D84-409C-A892-D65ADBE155E1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9E4DEC86-51FC-460E-A7A2-E70365487A3F}
+	EndGlobalSection
+EndGlobal

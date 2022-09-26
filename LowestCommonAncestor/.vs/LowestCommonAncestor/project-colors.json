@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0229a327-8ee0-4921-9cb1-d92e5fe56e92": {
+      "ProjectGuid": "0229a327-8ee0-4921-9cb1-d92e5fe56e92",
+      "DisplayName": "LowestCommonAncestor",
+      "ColorIndex": 0
+    },
+    "f63dddbd-82a3-4c44-bd13-98db7985667f": {
+      "ProjectGuid": "f63dddbd-82a3-4c44-bd13-98db7985667f",
+      "DisplayName": "LowestCommonAncestorTests",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

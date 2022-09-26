@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PerfSquares", "PerfSquares\PerfSquares.csproj", "{FAD4323F-CD06-498C-8C18-5EF5E1F38B7E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PerfSquaresTest", "PerfSquaresTest\PerfSquaresTest.csproj", "{ECE73F45-AE5E-4E7F-B66E-D52E5D84CBE8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAD4323F-CD06-498C-8C18-5EF5E1F38B7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAD4323F-CD06-498C-8C18-5EF5E1F38B7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAD4323F-CD06-498C-8C18-5EF5E1F38B7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAD4323F-CD06-498C-8C18-5EF5E1F38B7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECE73F45-AE5E-4E7F-B66E-D52E5D84CBE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECE73F45-AE5E-4E7F-B66E-D52E5D84CBE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECE73F45-AE5E-4E7F-B66E-D52E5D84CBE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECE73F45-AE5E-4E7F-B66E-D52E5D84CBE8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C1A81F6-0C84-4FEC-9EDA-D042A5ED88B5}
+	EndGlobalSection
+EndGlobal

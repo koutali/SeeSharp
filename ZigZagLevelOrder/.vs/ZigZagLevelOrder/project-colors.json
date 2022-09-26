@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "aba0f9a2-12e8-4cf2-9974-f28c0ba70169": {
+      "ProjectGuid": "aba0f9a2-12e8-4cf2-9974-f28c0ba70169",
+      "DisplayName": "ZigZagLevelOrder",
+      "ColorIndex": 0
+    },
+    "60460c68-fb37-48f4-91ed-13adea6f120f": {
+      "ProjectGuid": "60460c68-fb37-48f4-91ed-13adea6f120f",
+      "DisplayName": "ZigZagTests",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

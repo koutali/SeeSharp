@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinRemoveToMakeValidParantheses", "MinRemoveToMakeValidParantheses\MinRemoveToMakeValidParantheses.csproj", "{9C5BD8CF-7A7E-47AE-AE0E-40C91F0D7294}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidParanthesesTest", "ValidParanthesesTest\ValidParanthesesTest.csproj", "{06C4233C-3760-4F0C-BC07-0D36EF65EA62}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C5BD8CF-7A7E-47AE-AE0E-40C91F0D7294}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C5BD8CF-7A7E-47AE-AE0E-40C91F0D7294}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C5BD8CF-7A7E-47AE-AE0E-40C91F0D7294}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C5BD8CF-7A7E-47AE-AE0E-40C91F0D7294}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06C4233C-3760-4F0C-BC07-0D36EF65EA62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06C4233C-3760-4F0C-BC07-0D36EF65EA62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06C4233C-3760-4F0C-BC07-0D36EF65EA62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06C4233C-3760-4F0C-BC07-0D36EF65EA62}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3CC0E145-6092-4908-BE43-45D0F7B34836}
+	EndGlobalSection
+EndGlobal

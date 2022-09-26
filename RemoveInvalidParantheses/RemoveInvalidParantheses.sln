@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveInvalidParantheses", "RemoveInvalidParantheses\RemoveInvalidParantheses.csproj", "{5099C458-904D-41F1-9D27-80BA3F2D568D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5099C458-904D-41F1-9D27-80BA3F2D568D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5099C458-904D-41F1-9D27-80BA3F2D568D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5099C458-904D-41F1-9D27-80BA3F2D568D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5099C458-904D-41F1-9D27-80BA3F2D568D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C2A537F-49F6-4383-849D-F4EE0E641961}
+	EndGlobalSection
+EndGlobal

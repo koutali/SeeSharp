@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PowerOfThree", "PowerOfThree\PowerOfThree.csproj", "{63C4F5DB-32B5-4ADC-AA85-FDFBA7F2B6CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PowerOfThreeTests", "PowerOfThreeTests\PowerOfThreeTests.csproj", "{4CE28111-D543-4576-B064-6FAF61A2294F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63C4F5DB-32B5-4ADC-AA85-FDFBA7F2B6CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63C4F5DB-32B5-4ADC-AA85-FDFBA7F2B6CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63C4F5DB-32B5-4ADC-AA85-FDFBA7F2B6CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63C4F5DB-32B5-4ADC-AA85-FDFBA7F2B6CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CE28111-D543-4576-B064-6FAF61A2294F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CE28111-D543-4576-B064-6FAF61A2294F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CE28111-D543-4576-B064-6FAF61A2294F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CE28111-D543-4576-B064-6FAF61A2294F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {803C5725-AE45-46A7-8917-6C1A9BEA17FF}
+	EndGlobalSection
+EndGlobal

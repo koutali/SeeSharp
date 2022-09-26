@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31229.75
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestSubstringWithoutRep", "LongestSubstringWithoutRep\LongestSubstringWithoutRep.csproj", "{A5E3F9B0-9B83-4BAC-89CE-3775419D71B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestSubstringTests", "LongestSubstringTests\LongestSubstringTests.csproj", "{E9DF36C3-2BFC-4AF2-BCD3-9D1AED9753E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5E3F9B0-9B83-4BAC-89CE-3775419D71B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5E3F9B0-9B83-4BAC-89CE-3775419D71B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5E3F9B0-9B83-4BAC-89CE-3775419D71B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5E3F9B0-9B83-4BAC-89CE-3775419D71B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9DF36C3-2BFC-4AF2-BCD3-9D1AED9753E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9DF36C3-2BFC-4AF2-BCD3-9D1AED9753E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9DF36C3-2BFC-4AF2-BCD3-9D1AED9753E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9DF36C3-2BFC-4AF2-BCD3-9D1AED9753E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3736E4F6-72CF-410C-9993-65522F487987}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReorderLogFiles", "ReorderLogFiles\ReorderLogFiles.csproj", "{2A86017F-274A-413E-9FC9-B2D35B66E1C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReorderedLogFilesTests", "ReorderedLogFilesTests\ReorderedLogFilesTests.csproj", "{543A73A2-A7C5-4790-B659-735A4C4F1BE5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A86017F-274A-413E-9FC9-B2D35B66E1C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A86017F-274A-413E-9FC9-B2D35B66E1C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A86017F-274A-413E-9FC9-B2D35B66E1C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A86017F-274A-413E-9FC9-B2D35B66E1C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{543A73A2-A7C5-4790-B659-735A4C4F1BE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{543A73A2-A7C5-4790-B659-735A4C4F1BE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{543A73A2-A7C5-4790-B659-735A4C4F1BE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{543A73A2-A7C5-4790-B659-735A4C4F1BE5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E1BFA612-AD8B-4DCD-90F9-03EC9FC4187E}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CourseScheduleFirst", "CourseScheduleFirst\CourseScheduleFirst.csproj", "{74DBFC87-2D28-4C45-9F13-7AEEE32B9ACB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CourseScheduleFirstTests", "CourseScheduleFirstTests\CourseScheduleFirstTests.csproj", "{070DD890-F042-4496-8337-C0918D1C9507}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74DBFC87-2D28-4C45-9F13-7AEEE32B9ACB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74DBFC87-2D28-4C45-9F13-7AEEE32B9ACB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74DBFC87-2D28-4C45-9F13-7AEEE32B9ACB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74DBFC87-2D28-4C45-9F13-7AEEE32B9ACB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{070DD890-F042-4496-8337-C0918D1C9507}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{070DD890-F042-4496-8337-C0918D1C9507}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{070DD890-F042-4496-8337-C0918D1C9507}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{070DD890-F042-4496-8337-C0918D1C9507}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D03CD207-6020-4E21-87E2-F2C18F541919}
+	EndGlobalSection
+EndGlobal

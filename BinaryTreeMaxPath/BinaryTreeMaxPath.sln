@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryTreeMaxPathSum", "BinaryTreeMaxPath\BinaryTreeMaxPathSum.csproj", "{B5741E73-DAC6-44A4-A32D-83B193718AB3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxPathSumTests", "MaxPathSumTests\MaxPathSumTests.csproj", "{4500B57E-8B76-496D-9A59-2E7D5C56E05A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5741E73-DAC6-44A4-A32D-83B193718AB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5741E73-DAC6-44A4-A32D-83B193718AB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5741E73-DAC6-44A4-A32D-83B193718AB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5741E73-DAC6-44A4-A32D-83B193718AB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4500B57E-8B76-496D-9A59-2E7D5C56E05A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4500B57E-8B76-496D-9A59-2E7D5C56E05A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4500B57E-8B76-496D-9A59-2E7D5C56E05A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4500B57E-8B76-496D-9A59-2E7D5C56E05A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F4EE8CC-3C2B-4992-8FBE-1F7EDC368320}
+	EndGlobalSection
+EndGlobal

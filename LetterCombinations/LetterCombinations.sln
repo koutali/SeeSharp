@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LetterCombinations", "LetterCombinations\LetterCombinations.csproj", "{294D8755-E0D6-4AAA-8769-02FBD755B639}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LetterCombinationsTests", "LetterCombinationsTests\LetterCombinationsTests.csproj", "{4804B767-C060-42A0-A262-7FAA638D20A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{294D8755-E0D6-4AAA-8769-02FBD755B639}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{294D8755-E0D6-4AAA-8769-02FBD755B639}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{294D8755-E0D6-4AAA-8769-02FBD755B639}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{294D8755-E0D6-4AAA-8769-02FBD755B639}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4804B767-C060-42A0-A262-7FAA638D20A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4804B767-C060-42A0-A262-7FAA638D20A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4804B767-C060-42A0-A262-7FAA638D20A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4804B767-C060-42A0-A262-7FAA638D20A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3BB8BA1D-9EA3-473B-9168-73C49EA81C9F}
+	EndGlobalSection
+EndGlobal

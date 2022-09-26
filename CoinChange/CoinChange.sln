@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoinChange", "CoinChange\CoinChange.csproj", "{848C4CF9-89E2-4EB8-9107-1490ABA8CFAB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoinChangeTests", "CoinChangeTests\CoinChangeTests.csproj", "{50574D16-DD8C-4C40-B82A-FFDD81328E26}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{848C4CF9-89E2-4EB8-9107-1490ABA8CFAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{848C4CF9-89E2-4EB8-9107-1490ABA8CFAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{848C4CF9-89E2-4EB8-9107-1490ABA8CFAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{848C4CF9-89E2-4EB8-9107-1490ABA8CFAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50574D16-DD8C-4C40-B82A-FFDD81328E26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50574D16-DD8C-4C40-B82A-FFDD81328E26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50574D16-DD8C-4C40-B82A-FFDD81328E26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50574D16-DD8C-4C40-B82A-FFDD81328E26}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E4BC19B-715C-41FC-ABA7-B9530FC8D098}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31727.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LemonadeChallenge", "LemonadeChallenge\LemonadeChallenge.csproj", "{3FF73164-7B61-4F70-972E-8B437BBA4DF8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LemonadeChallengeTest", "LemonadeChallengeTest\LemonadeChallengeTest.csproj", "{DC09BB48-4ADE-4D2D-8E68-D98F47D0528A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3FF73164-7B61-4F70-972E-8B437BBA4DF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FF73164-7B61-4F70-972E-8B437BBA4DF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FF73164-7B61-4F70-972E-8B437BBA4DF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FF73164-7B61-4F70-972E-8B437BBA4DF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC09BB48-4ADE-4D2D-8E68-D98F47D0528A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC09BB48-4ADE-4D2D-8E68-D98F47D0528A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC09BB48-4ADE-4D2D-8E68-D98F47D0528A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC09BB48-4ADE-4D2D-8E68-D98F47D0528A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {016B539F-7D64-4166-BD9E-8CEBAFE7F55A}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SubarraySums", "SubarraySums\SubarraySums.csproj", "{784FC6C2-3E01-4D05-BEBD-7B0EEADBA0EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SubarraySumsTests", "SubarraySumsTests\SubarraySumsTests.csproj", "{A43A8A31-BFB5-44C2-85A0-B99D867EFDFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{784FC6C2-3E01-4D05-BEBD-7B0EEADBA0EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{784FC6C2-3E01-4D05-BEBD-7B0EEADBA0EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{784FC6C2-3E01-4D05-BEBD-7B0EEADBA0EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{784FC6C2-3E01-4D05-BEBD-7B0EEADBA0EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A43A8A31-BFB5-44C2-85A0-B99D867EFDFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A43A8A31-BFB5-44C2-85A0-B99D867EFDFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A43A8A31-BFB5-44C2-85A0-B99D867EFDFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A43A8A31-BFB5-44C2-85A0-B99D867EFDFB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8CF75FE1-8641-4597-85CB-3F92E6BE7389}
+	EndGlobalSection
+EndGlobal

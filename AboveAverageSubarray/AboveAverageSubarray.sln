@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AboveAverageSubarray", "AboveAverageSubarray\AboveAverageSubarray.csproj", "{73B74BEE-7BE5-480F-84DD-67D03A024157}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AboveAverageSubarrayTests", "AboveAverageSubarrayTests\AboveAverageSubarrayTests.csproj", "{B8EB5B2F-EFE4-4884-AEDF-BA3F89A094CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73B74BEE-7BE5-480F-84DD-67D03A024157}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73B74BEE-7BE5-480F-84DD-67D03A024157}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73B74BEE-7BE5-480F-84DD-67D03A024157}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73B74BEE-7BE5-480F-84DD-67D03A024157}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8EB5B2F-EFE4-4884-AEDF-BA3F89A094CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8EB5B2F-EFE4-4884-AEDF-BA3F89A094CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8EB5B2F-EFE4-4884-AEDF-BA3F89A094CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8EB5B2F-EFE4-4884-AEDF-BA3F89A094CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {170C0157-96F0-4444-A95C-1D3A56FEA954}
+	EndGlobalSection
+EndGlobal

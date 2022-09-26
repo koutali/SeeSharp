@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindAndReplace", "FindAndReplace\FindAndReplace.csproj", "{2A3172D7-4357-4A67-9175-B540A06358E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindAndReplaceTests", "FindAndReplaceTests\FindAndReplaceTests.csproj", "{5683084E-C421-4795-8D42-98373E0A626F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A3172D7-4357-4A67-9175-B540A06358E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A3172D7-4357-4A67-9175-B540A06358E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A3172D7-4357-4A67-9175-B540A06358E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A3172D7-4357-4A67-9175-B540A06358E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5683084E-C421-4795-8D42-98373E0A626F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5683084E-C421-4795-8D42-98373E0A626F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5683084E-C421-4795-8D42-98373E0A626F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5683084E-C421-4795-8D42-98373E0A626F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5BCAE6D2-4717-480A-8F0F-5EEC37F881AF}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "abd0ad9b-1903-4b29-affa-aa7858551359": {
+      "ProjectGuid": "abd0ad9b-1903-4b29-affa-aa7858551359",
+      "DisplayName": "FloodFill",
+      "ColorIndex": 0
+    },
+    "151e69c4-032f-48ef-94c1-632941982fb4": {
+      "ProjectGuid": "151e69c4-032f-48ef-94c1-632941982fb4",
+      "DisplayName": "FloodFillTest",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

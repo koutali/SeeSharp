@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepeatedSubstring", "RepeatedSubstring\RepeatedSubstring.csproj", "{BF52530A-0F2B-4DD5-BF98-D6E8FC1C4274}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepeatedSubstringTests", "RepeatedSubstringTests\RepeatedSubstringTests.csproj", "{A4319CED-3F36-4020-B3C3-F7BF1D3B3FD0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF52530A-0F2B-4DD5-BF98-D6E8FC1C4274}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF52530A-0F2B-4DD5-BF98-D6E8FC1C4274}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF52530A-0F2B-4DD5-BF98-D6E8FC1C4274}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF52530A-0F2B-4DD5-BF98-D6E8FC1C4274}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4319CED-3F36-4020-B3C3-F7BF1D3B3FD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4319CED-3F36-4020-B3C3-F7BF1D3B3FD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4319CED-3F36-4020-B3C3-F7BF1D3B3FD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4319CED-3F36-4020-B3C3-F7BF1D3B3FD0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3DF99E59-FAD1-4CBD-8FBE-F8564BCF33C2}
+	EndGlobalSection
+EndGlobal

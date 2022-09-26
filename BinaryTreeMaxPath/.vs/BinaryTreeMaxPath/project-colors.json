@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b5741e73-dac6-44a4-a32d-83b193718ab3": {
+      "ProjectGuid": "b5741e73-dac6-44a4-a32d-83b193718ab3",
+      "DisplayName": "BinaryTreeMaxPathSum",
+      "ColorIndex": 0
+    },
+    "4500b57e-8b76-496d-9a59-2e7d5c56e05a": {
+      "ProjectGuid": "4500b57e-8b76-496d-9a59-2e7d5c56e05a",
+      "DisplayName": "MaxPathSumTests",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}

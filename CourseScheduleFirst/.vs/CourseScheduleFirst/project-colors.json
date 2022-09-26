@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "74dbfc87-2d28-4c45-9f13-7aeee32b9acb": {
+      "ProjectGuid": "74dbfc87-2d28-4c45-9f13-7aeee32b9acb",
+      "DisplayName": "CourseScheduleFirst",
+      "ColorIndex": 0
+    },
+    "070dd890-f042-4496-8337-c0918d1c9507": {
+      "ProjectGuid": "070dd890-f042-4496-8337-c0918d1c9507",
+      "DisplayName": "CourseScheduleFirstTests",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}

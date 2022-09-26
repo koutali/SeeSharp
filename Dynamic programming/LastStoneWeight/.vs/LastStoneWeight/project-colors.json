@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2b6c4763-8a59-4812-bf35-a428e8cf3dd5": {
+      "ProjectGuid": "2b6c4763-8a59-4812-bf35-a428e8cf3dd5",
+      "DisplayName": "LastStoneWeight",
+      "ColorIndex": 0
+    },
+    "bb89f605-731e-4f74-acb2-f4aaf61d0eaf": {
+      "ProjectGuid": "bb89f605-731e-4f74-acb2-f4aaf61d0eaf",
+      "DisplayName": "LastStoneWeightTest",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
